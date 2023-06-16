@@ -15,4 +15,6 @@ header {
 
 .escola-imagem{
     background-image: linear-gradient(#ffffff,#40a52b);
+    color: white;
+    display: flex;
 }
