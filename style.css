@@ -73,5 +73,5 @@ body{
 }
 
 .estudante-nome{
-    text-align: center;
+    justify-content: baseline;
 }
