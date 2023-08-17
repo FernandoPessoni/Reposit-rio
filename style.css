@@ -11,6 +11,10 @@
 
 }
 
+.cabecalho-lista-item{
+    display: inline-block;
+}
+
 .escola-imagem{
     width: 25%;
 }
