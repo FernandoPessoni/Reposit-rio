@@ -71,7 +71,3 @@ body{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
-
-.estudante-nome{
-    justify-content: baseline;
-}
