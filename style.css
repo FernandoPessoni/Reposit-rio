@@ -84,4 +84,5 @@ body{
 
 .estudante{
     background-image: linear-gradient(#ffe600,#ffe60091);
+    grid-template-columns: 100% 100% 100% 100% 100%;
 }
